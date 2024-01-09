@@ -6,6 +6,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 - [Overview](#overview)
 - [My process](#my-process)
+- [Solution link](#link)
 
 
 ## Overview
@@ -23,4 +24,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - I displayed the header into CSS Flexbox to align the image with its content parallel. 
 - I used CSS Pseudo elements to specifically target individuel cards.
 - I used Media quaries at mobile breakpoint. 
-- I added a footer. 
+- I added a footer.
+
+  ## link
+  https://dadiziat.github.io/HTML-CSS-Practice-Testimonials-Page-/
